@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * @author Gibson Cruz
+ * @version 1.0
+ */
 public class Contador {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
